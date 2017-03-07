@@ -1,4 +1,4 @@
-//输出101-200内的质数
+//杈撳嚭101-200鍐呯殑璐ㄦ暟
 public class TestFor {
 	public static void main(String[] args) {
 		boolean f = true;
