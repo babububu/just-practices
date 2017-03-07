@@ -1,4 +1,4 @@
-//输出1-100内前5个可以被3整除的数
+//杈撳嚭1-100鍐呭墠5涓彲浠ヨ3鏁撮櫎鐨勬暟
 public class TestWhile {
 	public static void main(String[] args) {
 		int i = 1 , j = 1;
@@ -12,6 +12,6 @@ public class TestWhile {
 				}
 			 i++;
 		  }
-		}
+	   }
 	}
 }
